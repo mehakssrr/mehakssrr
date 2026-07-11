@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mehak Sharma 👋</h1>
 
-<h3 align="center">B.Tech AI & ML Student | Generative AI · AI Agents · Prompt Engineering</h3>
+<h3 align="center">B.Tech AI & ML Student | Generative AI · AI Agents · Prompt Engineering · Machine Learning </h3>
 
 <p align="center">
 📍 Chandigarh, India &nbsp;|&nbsp;
